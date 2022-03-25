@@ -5,3 +5,4 @@ Data Science Portfolio
 ## Academic Project 3 [Fake News Classification](https://github.com/radhika-19/FAKE-NEWS-CLASSIFIER)
 ## Academic Project 4 [Stock Price Prediction](https://github.com/radhika-19/StockPricePrediction)
 ## Academic Project 5 [Boston Housing Prediction](https://github.com/radhika-19/boston-prediction)
+## Academic Project 5 [RNA Sequence Analysis](https://github.com/radhika-19/gene-prediction)
